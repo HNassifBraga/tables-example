@@ -1,0 +1,47 @@
+
+header
+{
+    background-color: lightslategray;
+    text-align: center;
+    align-items: center;
+}
+.azul
+{
+    background-color: blue;
+    color: white;
+    border: 1px;
+}
+.materia
+{
+    color: blue;
+}
+.description
+{
+    height: 2%;
+    background-color: lightgrey;
+}
+table
+{
+    
+    margin: 0;
+    padding: 0;
+    border-radius: 5%;
+    background-color: white;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    left: 370px;
+    width: 40%;
+    height: 40%;
+}
+table,th,td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+body
+{
+    background-color: lightgrey;
+
+
+}

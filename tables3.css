@@ -1,0 +1,64 @@
+header
+{
+    background-color: lightslategray;
+    text-align: center;
+    align-items: center;
+}
+.azul
+{
+    background-color: blue;
+    color: white;
+    border-radius: 10%;
+    border: 1px;
+}
+.titulo
+{
+    border: 5px solid orange;
+    width: 50%;
+    position: absolute;
+    left: 300px;
+}
+
+.img    
+{
+    width: 100px;
+    height: auto;
+}
+table
+{
+    border: 1px solid whitesmoke;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    left: 370px;
+    color: black;
+    width: 40%;
+    height: 40%;
+}
+
+
+table,th,td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.azul-claro
+{ 
+    background-color: lightblue;
+    border-radius: 10%;
+    border: 1px;
+}
+.azul-escuro
+{
+    background-color: darkblue;
+}
+
+body
+{
+    background-color: lightgrey;
+    align-items: center;
+    text-align: center;
+}
